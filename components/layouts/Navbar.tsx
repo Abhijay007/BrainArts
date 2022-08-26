@@ -42,13 +42,13 @@ function Navbar() {
                 color="brand.500"
                 display={{ base: 'none', md: 'inline-flex' }}
               >
-                <chakra.a href="/aboutus" variant="ghost">
+                <chakra.a href="/aboutus" >
                   About us
                 </chakra.a>
-                <chakra.a href="/marketplace" variant="ghost">
+                <chakra.a href="/marketplace" >
                   Marketplace
                 </chakra.a>
-                <chakra.a href="/events" variant="ghost">
+                <chakra.a href="/events" >
                   Events
                 </chakra.a>
               </HStack>
@@ -85,10 +85,10 @@ function Navbar() {
                     onClick={mobileNav.onClose}
                   />
 
-                  <chakra.a href="/docs" variant="ghost">
+                  <chakra.a href="/docs">
                     Docs
                   </chakra.a>
-                  <chakra.a href="/marketplace" variant="ghost">
+                  <chakra.a href="/marketplace">
                     Marketplace
                   </chakra.a>
                 </VStack>

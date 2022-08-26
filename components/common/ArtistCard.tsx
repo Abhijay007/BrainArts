@@ -5,7 +5,6 @@ const ArtistCard = ({ artist }: ArtistCardPropsInterface) => {
   return (
     <chakra.a href={`/artist/${artist.id}`}>
       <Box
-        size={'lg'}
         pb={'4'}
         border={'solid'}
         borderWidth={'thin'}

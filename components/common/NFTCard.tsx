@@ -5,7 +5,6 @@ const NFTCard = ({ nft }: NftCardPropsInterface) => {
   return (
     <chakra.a href={`/nft/${nft.id}`}>
       <Box
-        size={'lg'}
         pb={'4'}
         border={'solid'}
         borderWidth={'thin'}
