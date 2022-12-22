@@ -16,7 +16,6 @@ Issuance of creators’ cards through RazorpayX BaaS: By issuing creators’ car
 
 # Brain-Arts:- A Smart India Hackathon Project
 
-![Screenshot 2022-12-15 180838.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5cee8a5b-5345-4b28-b6e3-b153d5e72294/Screenshot_2022-12-15_180838.png)
 
 # Abstract
 
