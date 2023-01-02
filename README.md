@@ -16,6 +16,8 @@ Issuance of creators’ cards through RazorpayX BaaS: By issuing creators’ car
 
 # Brain-Arts:- A Smart India Hackathon Project
 
+![Screenshot 2022-12-15 180838](https://user-images.githubusercontent.com/64387054/210266147-f07a4db4-e78a-4798-bd3e-9658653425ae.png)
+
 
 # Abstract
 
@@ -39,7 +41,7 @@ Issuance of creators’ cards through RazorpayX BaaS: By issuing creators’ car
 
 Tokenization of physical goods: BrianArts focuses on the tokenization of physical goods to provide buyers with a physical asset of their purchased art. This ensures that the value of the artwork is tied to the creator and the artwork itself, rather
 
-# Backg**ro**und
+# Background
 
 The rise of blockchain technology and NFTs has provided artists and creators with new opportunities to showcase and monetize their work in the digital world. NFTs are unique, digital assets that are stored on the blockchain, and are often used to represent digital artwork, collectibles, and other creations. They provide a way for artists to prove ownership and authenticity of their work, and to monetize it in the form of digital tokens.
 
@@ -56,6 +58,15 @@ BrianArts also offers users the ability to explore different art forms and disco
 Unlike other NFT marketplaces such as OpenSea and Wazir, BrianArts does not indirectly own the NFTs that are bought and sold on its platform. This means that the value of the NFTs is not tied to the existence of the platform, providing added security and confidence for buyers and sellers
 
 # Figma
+
+![Home page (2)](https://user-images.githubusercontent.com/64387054/210266288-55b196ae-6f26-441b-a88b-7a54a9ebe498.png)
+
+![Sign up (1)](https://user-images.githubusercontent.com/64387054/210266315-2361325f-22b4-4bd1-8664-d3a00b9a5f65.png)
+
+![upload page (1)](https://user-images.githubusercontent.com/64387054/210266321-5d942f2d-f4dc-4095-98a4-090b67a25818.png)
+
+![cart page (1)](https://user-images.githubusercontent.com/64387054/210266327-2e3123ee-fda3-4e63-baa2-ad766da7db48.png)
+
 
 [https://www.figma.com/file/uABvhVMmOMDhtyUwsZ5pXM/Brain-Arts-UI?node-id=0%3A1&t=LYjAXfEl0vrhhpeA-0](https://www.figma.com/file/uABvhVMmOMDhtyUwsZ5pXM/Brain-Arts-UI?node-id=0%3A1&t=LYjAXfEl0vrhhpeA-0)
 
