@@ -1,5 +1,3 @@
-## Brief Overview
-
 ## Project Description
 
 BrianArts is a digital platform that provides a global marketplace for artists and creators to showcase and sell their digital creations, including non-fungible tokens (NFTs). By integrating wallets and issuing creator cards through RazorpayX BaaS, BrianArts offers a convenient and secure way for users to buy and sell digital artwork and creations. The platform's focus on the tokenization of physical goods allows buyers to also obtain a physical asset of their purchased art. In doing so, BrianArts aims to provide original creators with recognition and value for their work.
